@@ -1,0 +1,64 @@
+.content {
+  max-width: 600px;
+  height: 1000px;
+  margin: auto;
+  padding: 3%;
+  color: #963305;
+  background-color: #e4e5e5;
+}
+* {
+ font-family: Familiar-Pro;
+}
+h1 {
+  text-align: center;
+}
+
+input {
+  size: "200";
+}
+input[type="date"] {
+  background-color: #ffffff;
+  size: "200";
+  width: 200px;
+  height: 30px;
+  border: 0px;
+}
+#divMeeting {
+  /* display:inline; */
+  display: block;
+  float: left;
+  width: 250px;
+  height: 20px;
+}
+#divSevicesNumber {
+  /* display:inline; */
+  display: block;
+  float: right;
+  width: 200px;
+  height: 20px;
+  margin-left: 50px;
+}
+#sevicesNumber {
+  width: 200px;
+  height: 30px;
+  border: 0px;
+}
+#radioLeft {
+  display: inline;
+  float: left;
+}
+#radioRight {
+  display: inline;
+  float: left;
+  margin-left: 100px;
+}
+#Submit {
+  text-align: center;
+  background-color:#636262 ;
+  color: #ffffff;
+  width: 200px;
+  height: 30px;
+}
+.container {
+  text-align: center;
+}
